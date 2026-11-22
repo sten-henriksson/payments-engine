@@ -1,0 +1,10 @@
+/target
+/accounts.csv
+
+# personal editor / debugger setup
+/.cargo/
+/.nvim.lua
+/.vscode/
+/.idea/
+*.swp
+.DS_Store
